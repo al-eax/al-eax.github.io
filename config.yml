@@ -3,3 +3,6 @@ languageCode: en-us
 title: Just another tech blog
 theme: PaperMod
 publishDir: "docs"
+params:
+    assets:
+        disableFingerprinting: true
