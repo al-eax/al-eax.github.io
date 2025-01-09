@@ -1,12 +1,11 @@
 ---
-date: '{{ .Date }}'
-draft: true
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: "Title"
+date: 2020-09-15T11:30:03+00:00
 tags: ["random"]
 author: "alex"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: ""
@@ -20,6 +19,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "200x50.svg" # image path/url
-    relative: false
+    image: "/posts/2025-01-09/alex.png" # image path/url
 ---
+
+## Hallo welt

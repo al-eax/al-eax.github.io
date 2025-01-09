@@ -3,6 +3,68 @@ languageCode: en-us
 title: Just another tech blog
 theme: PaperMod
 publishDir: "docs"
+enableRobotsTXT: true
+
 params:
+    description: "ExampleSite description"
+    keywords: [Blog, Portfolio, PaperMod]
+    author: Me
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/al-eax"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/4520565/al-eax"
+
     assets:
         disableFingerprinting: true
+    
+    editPost:
+        URL: "https://github.com/al-eax/al-eax.github.io/blob/main/content"
+        Text: "view on github" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+menu:
+  main:
+    - identifiert: about
+      name: about
+      url: /about/
+      weight: 1
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: 🔍 
+      url: /search/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  de:
+    languageCode: de-DE
+    languageName: Deutsch
+    weight: 2
+    params:
+      homeInfoParams:
+          Title: "Hallo du \U0001F44B"
+          Content: Willkommen auf meinem Technikblog
+  en:
+    languageCode: en-US
+    languageName: English
+    weight: 1
+    params:
+      homeInfoParams:
+          Title: "Hi there \U0001F44B"
+          Content: Welcome to my tech blog
