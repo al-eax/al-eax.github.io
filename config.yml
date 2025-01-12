@@ -39,7 +39,7 @@ menu:
       url: /tags/
       weight: 20
     - identifier: search
-      name: 🔍 
+      name: 🔍
       url: /search/
       weight: 30
 
