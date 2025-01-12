@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Just another tech blog</title>
     <link>https://al-eax.github.io/en/</link>
     <description>Recent content on Just another tech blog</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://al-eax.github.io/en/index.xml" rel="self" type="application/rss+xml" />
@@ -20,8 +20,14 @@
       <link>https://al-eax.github.io/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://al-eax.github.io/en/about/</guid>
-      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-&lt;p&gt;english about&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my tech blog! I&amp;rsquo;m Alex, born in 91 and I discovered my passion for programming and hacking while I was still at school.&#xA;During my computer science studies, I worked on reverse engineering and malware development,&#xA;which took my understanding of software and systems to a new level.&#xA;This blog is my hobby project and a place where I share my enthusiasm for software and hardware.&#xA;Here you will find projects and insights into my experiments and reflections,&#xA;which will hopefully inspire you to get creative yourself.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://al-eax.github.io/en/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://al-eax.github.io/en/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>

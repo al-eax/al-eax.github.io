@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://al-eax.github.io/sitemap.xml
