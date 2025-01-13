@@ -17,12 +17,11 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "/en/2025-01-13/s5max.png" # image path/url
+    image: "/en/posts/2025-01-13/s5max.png" # image path/url
     relative: false
 ---
 
 Last christmas I bought my self an old used vacuum robot from Roborock, the S5 max.
 I got it for 65€, which is cheap since some get sold for the doubled price.
 
-
-
+After a few runs 
