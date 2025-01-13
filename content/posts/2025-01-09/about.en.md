@@ -24,7 +24,7 @@ cover:
 
 
 Welcome to my tech blog! I'm Alex, born in 91 and I discovered my passion for programming and hacking while I was still at school. 
-During my computer science studies, I worked on reverse engineering and malware development, 
+During my computer science studies, I worked on reverse engineering and malware analysis, 
 which took my understanding of software and systems to a new level. 
 
 
