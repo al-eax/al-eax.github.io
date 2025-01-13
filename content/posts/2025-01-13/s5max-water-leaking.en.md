@@ -1,6 +1,6 @@
 ---
 date: '2025-01-13T01:48:35+01:00'
-draft: true
+draft: false
 title: 'S5max Water Leaking'
 tags: ["random"]
 author: "alex"
@@ -17,11 +17,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "/en/200x50.svg" # image path/url
+    image: "/en/2025-01-13/s5max.png" # image path/url
     relative: false
 ---
 
 Last christmas I bought my self an old used vacuum robot from Roborock, the S5 max.
-I got it for 65€ which is a very fair since some get sold for the doubled price.
+I got it for 65€, which is cheap since some get sold for the doubled price.
+
 
 

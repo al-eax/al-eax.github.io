@@ -28,21 +28,8 @@
                 href="http://localhost:1313/de/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/posts/2025-01-09/about/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/2025-01-09/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="http://localhost:1313/de/posts/2025-01-09/about/"
-                />
-  </url><url>
     <loc>http://localhost:1313/de/tags/random/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2025-01-13T01:48:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -54,8 +41,21 @@
                 href="http://localhost:1313/de/tags/random/"
                 />
   </url><url>
+    <loc>http://localhost:1313/de/posts/2025-01-13/s5max-water-leaking/</loc>
+    <lastmod>2025-01-13T01:48:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/posts/2025-01-13/s5max-water-leaking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/posts/2025-01-13/s5max-water-leaking/"
+                />
+  </url><url>
     <loc>http://localhost:1313/de/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2025-01-13T01:48:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -65,6 +65,19 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="http://localhost:1313/de/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/posts/2025-01-09/about/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/posts/2025-01-09/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/posts/2025-01-09/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/categories/</loc>
