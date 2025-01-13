@@ -21,7 +21,7 @@ cover:
     image: "en/posts/2025-01-09/about.png"
 ---
 
-Willkommen auf meinem Techblog! Ich bin Alex, ein 91er Jahrgang und habe schon in der 
+Willkommen auf meinem Techblog! Ich bin Alex, 91er Jahrgang und habe schon in der 
 Schulzeit meine Leidenschaft für Programmierung und Hacking entdeckt. 
 Während meines Informatikstudiums habe ich mich mit Reverse Engineering und Malewareanalyse beschäftigt, 
 was mein Verständnis für Software und Systeme auf ein neues Level gebracht hat.
