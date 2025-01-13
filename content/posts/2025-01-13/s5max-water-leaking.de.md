@@ -1,17 +1,15 @@
 ---
-title: "Title"
-date: 2020-09-15T11:30:03+00:00
+date: '2025-01-13T01:48:35+01:00'
+draft: true
+title: 'S5max Water Leaking'
 tags: ["random"]
 author: "alex"
 showToc: true
 TocOpen: false
-draft: false
 hidemeta: false
 comments: false
 description: ""
-disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -19,7 +17,8 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "/posts/2025-01-09/alex.png" # image path/url
+    image: "/en/200x50.svg" # image path/url
+    relative: false
 ---
 
-## Hallo welt
+sdfs

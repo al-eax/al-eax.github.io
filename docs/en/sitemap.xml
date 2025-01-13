@@ -2,95 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://al-eax.github.io/en/posts/2025-01-09/helloworld/</loc>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-01-13T01:48:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2025-01-13T01:48:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/random/</loc>
+    <lastmod>2025-01-13T01:48:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/tags/random/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/random/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/2025-01-13/s5max-water-leaking/</loc>
+    <lastmod>2025-01-13T01:48:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2025-01-13T01:48:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/2025-01-09/about/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://al-eax.github.io/de/posts/2025-01-09/helloworld/"
+                href="http://localhost:1313/de/posts/2025-01-09/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://al-eax.github.io/en/posts/2025-01-09/helloworld/"
+                href="http://localhost:1313/en/posts/2025-01-09/about/"
                 />
   </url><url>
-    <loc>https://al-eax.github.io/en/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://al-eax.github.io/de/"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://al-eax.github.io/en/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://al-eax.github.io/en/posts/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://al-eax.github.io/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://al-eax.github.io/en/posts/"
-                />
-  </url><url>
-    <loc>https://al-eax.github.io/en/tags/random/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://al-eax.github.io/de/tags/random/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://al-eax.github.io/en/tags/random/"
-                />
-  </url><url>
-    <loc>https://al-eax.github.io/en/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://al-eax.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://al-eax.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://al-eax.github.io/en/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://al-eax.github.io/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://al-eax.github.io/en/about/"
-                />
-  </url><url>
-    <loc>https://al-eax.github.io/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://al-eax.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://al-eax.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://al-eax.github.io/en/search/</loc>
+    <loc>http://localhost:1313/en/search/</loc>
   </url>
 </urlset>

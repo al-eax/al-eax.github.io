@@ -28,7 +28,7 @@ menu:
   main:
     - identifiert: about
       name: about
-      url: /about/
+      url: /posts/2025-01-09/about/
       weight: 1
     - identifier: categories
       name: categories
