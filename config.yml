@@ -2,7 +2,6 @@ baseURL: https://al-eax.github.io
 languageCode: en-us
 title: Just another tech blog
 theme: PaperMod
-publishDir: "docs"
 enableRobotsTXT: true
 
 params:
