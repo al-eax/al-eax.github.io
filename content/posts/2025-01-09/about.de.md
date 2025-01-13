@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2025-01-13T11:30:03+00:00
+date: 2025-01-09T11:30:03+00:00
 tags: ["random"]
 author: "alex"
 showToc: false
