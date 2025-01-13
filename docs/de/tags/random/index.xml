@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Random on Just another tech blog</title>
     <link>https://al-eax.github.io/de/tags/random/</link>
     <description>Recent content in Random on Just another tech blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>de-DE</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://al-eax.github.io/de/tags/random/index.xml" rel="self" type="application/rss+xml" />
