@@ -1,7 +1,7 @@
 ---
-date: '{{ .Date }}'
+date: '2025-09-26T21:04:50+02:00'
 draft: true
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: 'Vscode Dj Test Current File'
 tags: ["random"]
 author: "alex"
 showToc: true
@@ -17,6 +17,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "/en/200x50.svg" # image path/url e.g. en/posts/2025-01-09/image.png
+    image: "en/posts/2025-01-09/" # image path/url
     relative: false
 ---
