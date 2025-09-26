@@ -1,6 +1,6 @@
 ---
 date: '2025-09-26T21:04:50+02:00'
-draft: true
+draft: false
 title: 'Visual Studio Code: Run Django Tests for the Current File'
 tags: ["python", "django", "vscode"]
 author: "alex"
