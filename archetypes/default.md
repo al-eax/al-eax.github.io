@@ -17,6 +17,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "/en/200x50.svg" # image path/url e.g. en/posts/2025-01-09/image.png
+    image: "/en/200x50.svg" # image path/url e.g. /en/posts/2025-01-09/image.png
     relative: false
 ---
