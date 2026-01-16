@@ -13,7 +13,7 @@ fi
 
 NAME="$1"
 DATE=$(date +%Y-%m-%d)
-POST_DIR="posts/$DATE"
+POST_DIR="posts/${DATE}_${NAME}"
 
 # --- Create posts using Hugo ---
 cd "$BLOG_DIR" || exit 1

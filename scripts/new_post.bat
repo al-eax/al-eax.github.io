@@ -27,5 +27,5 @@ REM --- Ordner im content/posts erstellen ---
 mkdir "content/posts/%foldername%" >nul 2>&1
 
 REM --- Hugo Posts erstellen (relativ zum Projekt-Root) ---
-hugo new "posts/%foldername%/%postname%.en.md"
-hugo new "posts/%foldername%/%postname%.de.md"
+hugo new "posts/%foldername%_%postname%/%postname%.en.md"
+hugo new "posts/%foldername%_%postname%/%postname%.de.md"

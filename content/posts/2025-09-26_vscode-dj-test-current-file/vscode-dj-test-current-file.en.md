@@ -17,7 +17,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "/en/posts/2025-09-26/py-django-tests.png" # image path/url
+    image: "/en/posts/2025-09-26_vscode-dj-test-current-file/py-django-tests.png" # image path/url
     relative: false
 ---
 

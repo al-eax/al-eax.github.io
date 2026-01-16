@@ -17,7 +17,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: '/en/posts/2025-10-27/cover.png'
+    image: '/en/posts/2025-10-27_win11-slow-snipping-tool/cover.png'
     default: '/en/200x50.svg'
     relative: false
 ---

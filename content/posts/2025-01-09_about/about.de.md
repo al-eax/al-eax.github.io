@@ -18,7 +18,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "en/posts/2025-01-09/about.png"
+    image: "en/posts/2025-01-09_about/about.png"
 ---
 
 Willkommen auf meinem Techblog! Ich bin Alex, 91er Jahrgang und habe schon in der 

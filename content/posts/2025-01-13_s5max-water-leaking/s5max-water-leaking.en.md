@@ -17,7 +17,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 UseHugoToc: true
 cover:
-    image: "/en/posts/2025-01-13/s5max.png" # image path/url
+    image: "/en/posts/2025-01-13_s5max-water-leaking/s5max.png" # image path/url
     relative: false
 ---
 
